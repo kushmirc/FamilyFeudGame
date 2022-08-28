@@ -1,6 +1,7 @@
 # Family Feud Game
 
-### <em>Video Walkthrough: </em>
+### <em>Video Walkthrough: </em>https://youtu.be/9rT6Zetc9zM
+
 
 ## Description:
 
@@ -15,6 +16,7 @@ The title screen image, and game board slide template image are also included in
 
 ## Gameplay:
 
-Please watch the video walkthrough for a step-by-step explanation of how to use the Powerpoint and play the game.
+Please watch the video walkthrough (link above) for a step-by-step explanation of how to use the Powerpoint and play the game.
 
+![Title Screen Image](https://user-images.githubusercontent.com/107213928/187057752-02f9ec51-f98f-4531-8c95-fee69230233a.gif)
 
